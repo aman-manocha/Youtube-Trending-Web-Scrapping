@@ -1,0 +1,24 @@
+{
+  "name": "youtube-trending-web-scrapping",
+  "version": "1.0.0",
+  "description": "This is a web scraping project made on node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-manocha/Youtube-Trending-Web-Scrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-manocha/Youtube-Trending-Web-Scrapping/issues"
+  },
+  "homepage": "https://github.com/aman-manocha/Youtube-Trending-Web-Scrapping#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
